@@ -1,0 +1,1 @@
+..\build-tool\GMBT.EXE build --config=.build.yml

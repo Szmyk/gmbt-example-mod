@@ -1,0 +1,25 @@
+gothicRoot: ..\..\..
+
+modFiles:
+  assets:
+    - mdk
+    - mod
+    - thirdparty
+
+  scripts:
+    - mdk\Scripts
+    - mod\Scripts
+
+  defaultWorld: TOTENINSEL.ZEN
+
+modVdf:
+  output:  ..\..\..\Data\ModVDF\GMBT_Example_Project.mod
+  comment: Gothic Mod Build Tool - Example Project
+  
+install:
+  - 'install\gothic2_fix-2.6rev2\System\Gothic2.exe'              : '..\..\..\System\Gothic2.exe'
+  - 'install\gothic2_playerkit-2.6f\VDFS.cfg'                     : '..\..\..\VDFS.cfg'
+  - 'install\gothic2_playerkit-2.6f\System\GothicGame.ini'        : '..\..\..\System\GothicGame.ini'
+  - 'install\gothic2_playerkit-2.6f\System\GothicGame.rtf'        : '..\..\..\System\GothicGame.rtf'
+  - 'install\gothic2_playerkit-2.6f\System\GothicStarter.exe'     : '..\..\..\System\GothicStarter.exe'
+  - 'install\gothic2_playerkit-2.6f\System\GothicStarter_mod.exe' : '..\..\..\System\GothicStarter_mod.exe'
