@@ -6,10 +6,6 @@ modFiles:
     - mod
     - thirdparty
 
-  scripts:
-    - mdk\Scripts
-    - mod\Scripts
-
   defaultWorld: TOTENINSEL.ZEN
 
 modVdf:

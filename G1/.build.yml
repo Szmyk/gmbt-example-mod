@@ -6,10 +6,6 @@ modFiles:
     - thirdparty
     - mod
 
-  scripts:
-    - mdk\Scripts
-    - mod\Scripts
-
   defaultWorld: ABANDONEDMINE.ZEN
 
 modVdf:
