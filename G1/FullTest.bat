@@ -1,1 +1,1 @@
-..\build-tool\GMBT.EXE test --full --config=.build.yml --windowed --noaudio
+gmbt test --full --windowed --noaudio

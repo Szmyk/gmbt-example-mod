@@ -1,0 +1,14 @@
+gothicRoot: ..\..\..
+
+modFiles:
+  assets:
+    - mdk
+    - thirdparty
+    - mod
+
+  defaultWorld: ABANDONEDMINE.ZEN
+
+modVdf:
+  output:  ..\..\..\Data\ModVDF\GMBT_Example_Project.mod
+  comment: Gothic Mod Build Tool - Example Project
+  

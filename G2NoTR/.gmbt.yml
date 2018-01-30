@@ -1,0 +1,13 @@
+gothicRoot: ..\..\..
+
+modFiles:
+  assets:
+    - mdk
+    - mod
+    - thirdparty
+
+  defaultWorld: TOTENINSEL.ZEN
+
+modVdf:
+  output:  ..\..\..\Data\ModVDF\GMBT_Example_Project.mod
+  comment: Gothic Mod Build Tool - Example Project

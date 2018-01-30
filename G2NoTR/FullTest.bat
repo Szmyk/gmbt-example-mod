@@ -1,0 +1,1 @@
+gmbt test --full --windowed --noaudio
