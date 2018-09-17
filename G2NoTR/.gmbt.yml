@@ -1,3 +1,7 @@
+projectName: GMBT Example for Gothic 2
+
+minimalVersion: v0.15
+
 gothicRoot: ..\..\..
 
 modFiles:
